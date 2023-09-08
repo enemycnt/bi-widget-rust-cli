@@ -1,5 +1,7 @@
-# Bi Widget Rust CLI
+# Bi-widget rust cli
+
 <img src="./assets/screen.png" width="313" alt="screenshot">
+
 ## Description
 it is partly a Rust implementation of the ["bi-widget"](https://github.com/enemycnt/bi-widget), originally a React application.
 
