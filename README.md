@@ -4,6 +4,7 @@
 
 ## Description
 it is partly a Rust implementation of the ["bi-widget"](https://github.com/enemycnt/bi-widget), originally a React application.
+This project is my first venture into the Rust programming language. In this project, I engaged with network requests, real-time WebSocket data handling, and explored memory management alongside concurrency features in Rust. This terminal application offers a structured and interactive interface to work with product data directly in the terminal, presenting a fruitful first attempt at Rust.
 
 ## Features
 - **Concurrency**: Leveraging Rust's capabilities for efficient data management.
