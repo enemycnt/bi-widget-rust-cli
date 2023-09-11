@@ -1,4 +1,4 @@
-# Bi-widget rust cli
+# Binance widget: rust cli
 
 <img src="./assets/screen.png" width="313" alt="screenshot">
 
